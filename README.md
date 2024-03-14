@@ -1,5 +1,5 @@
 # PRODIGY_WD_04
-The responsive portfolio was created using React JS
+The responsive portfolio was created using React JS & SASS
 
 # Features
 - Navigation Bar with Menu
@@ -12,6 +12,7 @@ The responsive portfolio was created using React JS
 - CSS3
 - JS
 - React JS
+- SASS
 
 # Live Site
 - https://prodigywd04.netlify.app
