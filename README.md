@@ -1,6 +1,12 @@
 # PRODIGY_WD_04
 The responsive portfolio was created using React JS
 
+# Features
+- Navigation Bar with Menu
+- Services Section
+- Projects Section
+- Recent Projects section with Slider
+
 # Technology
 - HTML5
 - CSS3
